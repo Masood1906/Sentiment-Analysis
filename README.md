@@ -30,7 +30,7 @@ A full-stack web application that analyzes text sentiment and visualizes trends 
 - Node.js (v14+)
 - Python (v3.8+)
 - npm or yarn
-
+tryout:https://masoodsentimeter.netlify.app/
 ### Installation
 
 1. Clone the repository
